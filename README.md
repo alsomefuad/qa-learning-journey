@@ -34,7 +34,7 @@ Berikut adalah beberapa Test Case yang saya buat untuk fitur Login:
 
 Sebagai QA di tim Agile yang bekerja secara remote, berikut adalah laporan Daily Standup saya:
 
-### Standup: Senin, 15 Agustus 2026
+### Standup: Sabtu, 15 Agustus 2026
 
 **Apa yang saya kerjakan kemarin?**
 Saya mengerjakan bagaimana menggunakan AI agentic secara local.
@@ -45,12 +45,4 @@ Saya belajar mengenai QA dimulai dari dasarnya. Saya juga membuat AI yang dihubu
 **Apakah ada hambatan (Blocker)?**
 Tidak ada blocker. Semua kendala sudah teratasi. (Kemarin sempat error internal server error di bagian calling API, tapi sudah solved).
 
-Module 2: Agile & Simulasi Daily Standup
-Sebagai QA di tim Agile yang bekerja secara remote, berikut adalah laporan Daily Standup saya:
 
-Standup: Senin, 15 Agustus 2026
-
-Apa yang saya kerjakan kemarin?saya mengerjakan bagaimana menggunakan AI agentic secara local
-Apa yang saya kerjakan hari ini?saya belajar mengenai QA dimulai dari dasarnya. Saya juga membuat AI yang dihungungkan dengan whatsapp hingga saya bisa calling AI pribadi saya dari whatsapp, tidak perlu lagi membuka applikasi di komputer.
-Apakah ada hambatan (Blocker)?Error internal server error di bagian caling API nya, tapi sudah solved kok
-Langkah-langkah:
