@@ -27,3 +27,20 @@ Berikut adalah beberapa Test Case yang saya buat untuk fitur Login:
 **Expected Result:** Menampilkan pesan error "Password salah" atau "Kredensial tidak valid" dan tetap di halaman login
 **Actual Result:** Muncul pesan error "Invalid credentials" dan tidak bisa masuk ke dashboard
 **Severity:** Medium
+
+---
+
+## Module 2: Agile & Simulasi Daily Standup
+
+Sebagai QA di tim Agile yang bekerja secara remote, berikut adalah laporan Daily Standup saya:
+
+### Standup: Senin, 15 Agustus 2026
+
+**Apa yang saya kerjakan kemarin?**
+Saya mengerjakan bagaimana menggunakan AI agentic secara local.
+
+**Apa yang saya kerjakan hari ini?**
+Saya belajar mengenai QA dimulai dari dasarnya. Saya juga membuat AI yang dihubungkan dengan WhatsApp hingga saya bisa calling AI pribadi saya dari WhatsApp, tidak perlu lagi membuka aplikasi di komputer.
+
+**Apakah ada hambatan (Blocker)?**
+Tidak ada blocker. Semua kendala sudah teratasi. (Kemarin sempat error internal server error di bagian calling API, tapi sudah solved).
